@@ -1,0 +1,2 @@
+# BarcodeReader
+BarcodeReader for windows 
